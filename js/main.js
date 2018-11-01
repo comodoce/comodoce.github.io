@@ -176,7 +176,7 @@ AOS.init({
   });
 
   $(".home-slider-loop-false").owlCarousel({
-    loop: false,
+    loop: true,
     autoplay: true,
     margin: 0,
     animateOut: "fadeOut",
